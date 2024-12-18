@@ -1,4 +1,0 @@
-{
-    "mongoURI": "mongodb://sahan:sex123@ds051605.mlab.com:51605/mern_shopping_phoenixxx",
-    "jwtSecret": "sl_myJwtSecret"
-}
